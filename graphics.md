@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/79501343/110198993-4070f880-7e24-11eb-9d62-30dac8fedcf3.png)
 
+
 - De línea:
 ![image](https://user-images.githubusercontent.com/79501343/110199006-48c93380-7e24-11eb-9ece-70a1bb719757.png)
 
